@@ -20,7 +20,7 @@ textarea {
 
 header {
     padding: 16px;
-    background-color: #182c61;
+    background-color: #b30000;
     color: #ecf0f1;
 }
 
@@ -70,11 +70,13 @@ section h2 {
 }
 
 section {
-    color: #182c61;
+    color: #b30000;
 }
 
 section p {
     margin-bottom: 8px;
+    color: #182c61;
+    margin-bottom: 32px;
 }
 
 .store-front { 
@@ -143,7 +145,7 @@ textarea:focus {
 }
 
 footer {
-    background-color: #182c61;
+    background-color: #b30000;
     color:#ecf0f1;
     padding: 16px 0;
     text-align: right;
